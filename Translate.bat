@@ -1,0 +1,1 @@
+xcopy "%~dp0Modded\*.*" "%~dp0" /K /H /Y /E

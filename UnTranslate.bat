@@ -1,0 +1,1 @@
+xcopy "%~dp0Vanilla\*.*" "%~dp0" /K /H /Y /E
